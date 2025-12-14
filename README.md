@@ -1,2 +1,1 @@
-# oindil-codes
-A project named Oindil Codes.
+IyBPaW5kaWwgQ29kZXMKClRoaXMgcHJvamVjdCBpcyBuYW1lZCBPaW5kaWwgQ29kZXMuIEl0IHNlcnZlcyBhcyBhIHRlbXBsYXRlIGZvciBzdGFydGluZyBuZXcgcHJvamVjdHMgd2l0aCBlc3NlbnRpYWwgZmlsZXMgYW5kIHN0cnVjdHVyZS4=
